@@ -2,6 +2,7 @@
 % School of Engineering of Sao Carlos
 % 
 % 1. Title: Elbow-and-shoulder performance of chronic hemiparetic patients
+%           This dataset is related to Equation (1) (See publication below)
 %
 % 2. This dataset was originally generated for the work below:
 % 		C.B. Moretti, R.C. Joaquim, T.T. Terranova, L.R. Battistella, S.
@@ -15,7 +16,7 @@
 %      (b) Raw data source: Physical and Rehabilitation Medicine Institute of the University of Sao Paulo Medical School General Hospital (Lucy Montoro Institute)
 %      (c) Date: September, 2015
 
-@relation ESHemiparesis
+@relation Hemiparesis1
 
 @attribute meanpx numeric
 @attribute meanpy numeric
